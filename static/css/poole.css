@@ -236,6 +236,15 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
+.blended {
+    color: orange;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
 
 /*
  * Messages

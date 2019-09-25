@@ -45,6 +45,9 @@ html {
   }
 }
 
+.description {
+    font-size: 20px;
+}
 
 /*
  * Sidebar
@@ -58,6 +61,9 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  background-image: url("https://farm2.staticflickr.com/1439/1112443252_ad214e8680_b.jpg");
+  background-repeat: no-repeat;
+  background-size: 1000px 1000px;
 }
 @media (min-width: 48em) {
   .sidebar {
