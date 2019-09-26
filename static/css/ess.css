@@ -1,0 +1,50 @@
+/* Override Sidebar Heading*/
+.sidebar-about h1 {
+  color: orange;
+  text-shadow:
+    -3px -3px 0 black,
+    3px -3px 0 black,
+    -3px 3px 0 black,
+    3px 3px 0 black;
+}
+
+/* Override Sidebar Description*/
+.sidebar-about .description {
+  color: orange;
+  font-size: 32px;
+  text-shadow:
+    -2px -3px 0 black,
+    2px -3px 0 black,
+    -2px 3px 0 black,
+    2px 3px 0 black;
+}
+
+/* Override Sidebar links */
+.sidebar a {
+    color: orange;
+    text-shadow:
+        -2px -2px 0 black,
+        2px -2px 0 black,
+        -2px 2px 0 black,
+        2px 2px 0 black;
+}
+
+/* Override Sidebar links */
+.sidebar .container a {
+    color: orange;
+    text-shadow:
+        -2px -2px 0 black,
+        2px -2px 0 black,
+        -2px 2px 0 black,
+        2px 2px 0 black;
+}
+
+/* Override Sidebar copyright */
+.sidebar .copyright {
+    color: orange;
+    text-shadow:
+        -2px -2px 0 black,
+        2px -2px 0 black,
+        -2px 2px 0 black,
+        2px 2px 0 black;
+}
